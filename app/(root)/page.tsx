@@ -27,7 +27,6 @@ export default function Home() {
     >
       {!selectedQuizz && (
         <>
-        <Navbar></Navbar>
           <MotionDiv
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
