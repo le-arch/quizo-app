@@ -36,7 +36,7 @@ export default function Home() {
               Welcome to <span className="font-bold">Quizo!</span>
             </h1>
             <p className="text-gray-navy italic dark:text-light-blue xs:text-sm xl:text-xl">
-              Pick a subject to get started.
+              Pick a course to get started.
             </p>
           </MotionDiv>
           <MotionDiv
@@ -57,7 +57,7 @@ export default function Home() {
             className="flex flex-col xs:gap-3 md:gap-6 h-full lg:mt-20"
           >
             <h1 className="xs:text-4xl md:text-5xl font-normal text-dark-blue dark:text-white xl:text-6xl">
-              Quizz Completed!
+              Quizo Completed!
             </h1>
             <p className="xs:text-4xl md:text-5xl font-bold text-dark-blue dark:text-white xl:text-6xl">
               You scored...
