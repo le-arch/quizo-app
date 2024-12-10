@@ -14,7 +14,7 @@ const Subjects = ({ data }: SubjectsProps) => {
     HTML: "#FFF1E9",
     CSS: "#E0FDEF",
     JavaScript: "#EBF0FF",
-    Accessibility: "#F6E7FF",
+    Access: "#F6E7FF",
   };
 
   return (
